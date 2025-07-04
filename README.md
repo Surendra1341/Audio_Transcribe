@@ -157,4 +157,3 @@ React
 Have issues or ideas? Open an issue on the GitHub repository.
 
 # Made with ❤️ by Surendra
-Let me know if you want this in a downloadable `.md` file.
